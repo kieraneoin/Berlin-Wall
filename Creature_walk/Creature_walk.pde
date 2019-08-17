@@ -14,9 +14,7 @@ ellipse(x,y-40,100,100);
 ellipse(x-10,y-60,15,15); 
 ellipse(x+10,y-60,15,15); 
 ellipse(x,y-10,20,20);
-ellipse(x+10,y+50,20,20);
-ellipse(x-10,y+50,20,20);
-ellipse(x,y+70,20,50);
+
 x=x+1;
 y=y+1;
 }
